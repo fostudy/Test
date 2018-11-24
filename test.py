@@ -1,6 +1,8 @@
-def foo():
-    msg = "A"
-    return msg
+
+
+def foo();
+msg = "C"
+return msg
 
 print "Hellow world"
 print foo()
