@@ -1,3 +1,4 @@
+
 def foo();
 msg = "B"
 return msg
