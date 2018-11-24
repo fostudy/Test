@@ -1,6 +1,7 @@
 
+
 def foo();
-msg = "B"
+msg = "C"
 return msg
 
 print "Hellow world"
